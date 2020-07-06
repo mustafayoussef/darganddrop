@@ -1,0 +1,62 @@
+#chartContainer3 {
+  background-image: url("https://pngriver.com/wp-content/uploads/2018/04/Download-World-Map-PNG-Image.png");
+  background-position: center;
+  background-size: 95% 100%;
+}
+
+.maps {
+  /* height: 80vh; */
+}
+.drop-container {
+  padding: 0 !important;
+}
+.drog {
+  background-color: #f8f9fa;
+  /* height: 100vh; */
+}
+.small-chart {
+  height: 100px;
+  width: 170px;
+}
+#small-chart2 {
+  height: 100%;
+  width: 100%;
+}
+#small-chart1,
+#small-chart2,
+#small-chart3,
+#chartContainer1,
+#chartContainer2,
+#chartContainer3 {
+  height: 100%;
+  width: 100%;
+}
+.one-drag {
+  background-color: white;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.wong-drag {
+  background-color: #f7f7f783;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  border: 1px solid gray;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+.two-worng {
+  background-color: #f7f7f783;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid gray;
+  border-radius: 5px;
+  height: 245px;
+}
